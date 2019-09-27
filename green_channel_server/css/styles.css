@@ -1,0 +1,23 @@
+@font-face{
+	font-family: "Permanent Marker";
+	src: url("../fonts/PermanentMarker-Regular.ttf");
+}
+
+.heading {
+    padding: 20px;
+    font-size: 25px;  
+}
+.main{
+    width:25%;
+}
+
+.bor {
+    margin-top: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+.center {
+    border: none;
+}
